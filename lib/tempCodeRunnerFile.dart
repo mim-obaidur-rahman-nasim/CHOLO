@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cholo',
+      title: 'CHolo',
       debugShowCheckedModeBanner: false,
       home: const LoginPage(),
     );
